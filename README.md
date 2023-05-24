@@ -1,4 +1,4 @@
-# Hi there 👋, Muhammad Ali
+# Muhammad Ali
 #### Web Developer
 ![Web Developer](https://web.facebook.com/photo/?fbid=179906268053700&set=a.114041124640215)
 
